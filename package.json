@@ -1,6 +1,6 @@
 {
   "name": "@jdists/uglify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "uglify as jdists processor",
   "main": "lib/index",
   "typings": "lib/index.d.ts",
@@ -32,7 +32,8 @@
   },
   "homepage": "https://github.com/jdists/uglify#readme",
   "dependencies": {
-    "@types/uglify-js": "^2.6.29"
+    "@types/uglify-js": "^2.6.29",
+    "uglify-js": "^3.1.9"
   },
   "devDependencies": {
     "@types/node": "^8.0.33",
