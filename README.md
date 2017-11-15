@@ -19,7 +19,7 @@ function calc(number) {
   }
   return '数:' + result
 }
-/*</uglify>*/
+/*</jdists>*/
 
 /*<uglify>*/
 function calc(number) {
